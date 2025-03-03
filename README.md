@@ -6,7 +6,7 @@ It involves
 - Descriptive statistics & visualization
 - Model fitting (full & refined models)
 - Model assumption checking (Residuals, Normality, Homoscedasticity)
-- Model improvement recommendations (regularization, non-linear models)
+- Model improvement recommendations (regularization, non-linear models) 
 
 ## Files
 - `jeandedieu_ngirinshuti_SR2.pdf` → Full report of the analysis  
