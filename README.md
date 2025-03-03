@@ -1,6 +1,6 @@
 # Lending Data Default Rate Prediction
 
-## 📌 Overview
+## Overview
 This project analyzes lending data to predict default rates using **linear regression**.  
 It involves:
 - Descriptive statistics & visualization
@@ -8,10 +8,9 @@ It involves:
 - Model assumption checking (Residuals, Normality, Homoscedasticity)
 - Model improvement recommendations (regularization, non-linear models)
 
-## 📁 Files
+## Files
 - `jeandedieu_ngirinshuti_SR2.pdf` → Full report of the analysis  
 - `jeandedieu_ngirinshuti_SR2.R` → R script for data analysis and modeling  
-- `lending_dataset1_aggr.csv` (if included)  
 
 ## 🛠 How to Run the Code
 1. Install required packages in R:
